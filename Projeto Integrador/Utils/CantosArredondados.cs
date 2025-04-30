@@ -32,6 +32,9 @@ namespace Projeto_Integrador.Utils
             {
                 AddBorderRadius((Control)sender);
             }
+          //;_;pedro soares da silva>w<,<3
+          //blabla
+
         }
 
         public static void AddBorderRadius(Control controller, int borderRadius = 16)
