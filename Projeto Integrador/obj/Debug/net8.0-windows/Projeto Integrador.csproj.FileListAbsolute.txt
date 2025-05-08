@@ -35,3 +35,41 @@ C:\Users\pedro.ssilva20\source\repos\Projeto Integrador\Projeto Integrador\obj\D
 C:\Users\pedro.ssilva20\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net8.0-windows\ref\Projeto Integrador.dll
 C:\Users\pedro.ssilva20\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.TelaDeCadastro.resources
 C:\Users\pedro.ssilva20\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.teladelogin.resources
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Projeto Integrador.exe
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Projeto Integrador.deps.json
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Projeto Integrador.runtimeconfig.json
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Projeto Integrador.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Projeto Integrador.pdb
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.csproj.AssemblyReference.cache
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.TelaDeLogin.resources
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.TelaDeCadastro.resources
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.projeto_integrador.resources
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto_Integrador.Properties.Resources.resources
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.csproj.GenerateResource.cache
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.AssemblyInfo.cs
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.sourcelink.json
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto .2CA06E67.Up2Date
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\refint\Projeto Integrador.dll
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.pdb
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\Projeto Integrador.genruntimeconfig.cache
+C:\Users\pedro.ssilva20\OneDrive - SENAC - SP\Área de Trabalho\projeto-integrador-\Projeto Integrador\obj\Debug\net8.0-windows\ref\Projeto Integrador.dll

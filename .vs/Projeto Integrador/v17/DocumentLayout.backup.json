@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\utils\\cantosarredondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\utils\\cantosarredondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\projeto integrador\\components\\forms\\teladelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\components\\forms\\teladelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\components\\forms\\teladelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\form_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\utils\\cantosarredondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\utils\\cantosarredondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|solutionrelative:projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B07B46DB-A7B3-4688-9858-D1FE9788ABDC}|Projeto Integrador\\Projeto Integrador.csproj|c:\\users\\pedro.ssilva20\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto-integrador-\\projeto integrador\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Form_Inicial.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Form_Inicial.cs",
+              "RelativeDocumentMoniker": "Projeto Integrador\\Form_Inicial.cs",
+              "ToolTip": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Form_Inicial.cs [Projeto]",
+              "RelativeToolTip": "Projeto Integrador\\Form_Inicial.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:44:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TelaDeCadastro.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Components\\Testes\\TelaDeCadastro.cs",
               "RelativeDocumentMoniker": "Projeto Integrador\\Components\\Testes\\TelaDeCadastro.cs",
@@ -53,18 +64,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TelaDeLogin.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Components\\Forms\\TelaDeLogin.cs",
               "RelativeDocumentMoniker": "Projeto Integrador\\Components\\Forms\\TelaDeLogin.cs",
               "ToolTip": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Components\\Forms\\TelaDeLogin.cs [Projeto]",
               "RelativeToolTip": "Projeto Integrador\\Components\\Forms\\TelaDeLogin.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:45:21.561Z"
+              "WhenOpened": "2025-04-30T16:45:21.561Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Program.cs",
               "RelativeDocumentMoniker": "Projeto Integrador\\Program.cs",
@@ -76,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CantosArredondados.cs",
               "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Utils\\CantosArredondados.cs",
               "RelativeDocumentMoniker": "Projeto Integrador\\Utils\\CantosArredondados.cs",
@@ -84,12 +96,11 @@
               "RelativeToolTip": "Projeto Integrador\\Utils\\CantosArredondados.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:45:02.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T16:45:02.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Form_Inicial.cs",
               "RelativeDocumentMoniker": "Projeto Integrador\\Form_Inicial.cs",
@@ -97,19 +108,7 @@
               "RelativeToolTip": "Projeto Integrador\\Form_Inicial.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAjwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:44:44.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form_Inicial.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Form_Inicial.cs",
-              "RelativeDocumentMoniker": "Projeto Integrador\\Form_Inicial.cs",
-              "ToolTip": "C:\\Users\\pedro.ssilva20\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\projeto-integrador-\\Projeto Integrador\\Form_Inicial.cs [Projeto]",
-              "RelativeToolTip": "Projeto Integrador\\Form_Inicial.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:44:32.286Z"
+              "WhenOpened": "2025-04-30T16:44:44.595Z"
             },
             {
               "$type": "Document",
